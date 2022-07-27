@@ -1,4 +1,10 @@
-![](https://assets.vercel.com/image/upload/v1549723846/repositories/hyper/hyper-3-repo-banner.png)
+![hyper-3-repo-banner](https://user-images.githubusercontent.com/73779089/181276460-9c2d1903-e79f-46ec-b446-e237a55f229a.png#gh-light-mode-only)
+
+ 
+ 
+  <div align="center">
+      <img src="https://user-images.githubusercontent.com/73779089/181276180-e04ca34b-80b4-45cf-b95a-3d110664528d.png#gh-dark-mode-only">
+  </div>
 
 <p align="center">
   <a aria-label="Vercel logo" href="https://vercel.com">
